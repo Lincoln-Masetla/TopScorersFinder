@@ -14,6 +14,6 @@ A console app to find top scorers from a CSV. Includes unit tests for key classe
 
 ## Usage
 
-1. Provide a CSV file with data in this format: `FirstName,LastName,Score`
+1. Provide a CSV file with data in this format: `FirstName,LastName,Score` (Already there in the root of Console app)
 2. Run the app: `dotnet run --project TopScorersFinder.ConsoleApp`
-3. Enter the CSV file path and minimum score.
+3. Check CSV if the output on the console.
